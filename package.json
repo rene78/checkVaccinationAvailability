@@ -1,0 +1,14 @@
+{
+  "name": "check-vaccination-availability---impfterminradar",
+  "version": "1.0.0",
+  "description": "Get informed, if vaccination dates in FN are available",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
+    "nodemailer": "^6.6.0"
+  },
+  "devDependencies": {}
+}

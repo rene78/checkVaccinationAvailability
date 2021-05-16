@@ -1,0 +1,2 @@
+# Check Vaccination Availability
+Time triggered Functions-as-a-Service (FaaS) to check whether any vaccination appointments for COVID-19 have been unlocked. Getting the data from https://impfterminradar.de. Hosted on MS Azure ("Azure Functions").
